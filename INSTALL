@@ -1,0 +1,9 @@
+Building GuccioneCryptoMoneta
+
+See doc/readme-qt.rst for instructions on building GuccioneCryptoMoneta-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GuccioneCryptoMoneta.
+
+See doc/build-*.txt for instructions on building guccionecryptomonetad,
+the intended-for-services, no-graphical-interface, reference
+implementation of GuccioneCryptoMoneta.
