@@ -10,13 +10,21 @@ What is GuccioneCryptoMoneta?
 ----------------
 
 GuccioneCryptoMoneta is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - Algorithm Scrypt
+ - Coin Name GuccioneCryptoMoneta
+ - Coin Abbreviation GCMA
+ - Address letter G
+ - RPC Port 4316
+ - P2P Port 4315
+ - Block reward 69 coins
+ - Block halving 25000 blocks
+ - Total coin supply 6900000 coins
+ - Premine Percent 50 %
+ - Premine Amount 3450000 coins
+ - Coinbase maturity 50 blocks
+ - Number of comfirmations 2 blocks
+ - Target timespan in minutes 2 minutes
+ - Target spacing in minutes 2 minutes
 
 For more information, as well as an immediately useable, binary version of
 the GuccioneCryptoMoneta client sofware, see http://www.guccionecryptomoneta.org.
