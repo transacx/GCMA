@@ -23,9 +23,8 @@ the GuccioneCryptoMoneta client sofware, see http://www.guccionecryptomoneta.org
 
 To Sync the wallet please add the following to your conf file:
 
-addnode=52.17.250.165
-
-addnode=52.8.210.243
+    addnode=52.17.250.165
+    addnode=52.8.210.243
 
 
 License
